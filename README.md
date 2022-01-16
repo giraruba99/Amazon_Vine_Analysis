@@ -20,3 +20,15 @@ This analysis touches big data and cloud storage of huge amount of data. Thus, t
 - Then we were able to create DataFrames based on votes, and those DataFrames are going to be used to get some insight in to vines and no vines.
 
 ![Vine and No Vine numbers](https://user-images.githubusercontent.com/89214854/149673333-5dc0eda6-bad8-4c66-b344-c0d77490db5b.png)
+
+* Vine Analysis
+-  There are 386 vine numbers
+-  There are 48717 no vine numbers
+-  There are 178 vine 5 stars
+-  There are 24026 no vine 5 stars
+-  The vine percetanges of 5 star 45.6
+-  The no vine percentage of 5 star is 49.3
+
+From the numbers above, it doesn't show too diffrent in terms of getting 5 stars if vine or no vine.
+
+No considerablly big bias in getting 5 stars regardless of the vines or no vines
